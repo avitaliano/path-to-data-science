@@ -23,8 +23,8 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
     * Descrição: This short course is a quick review of linear algebra, intended for students who have already taken a previous course in linear algebra or have some experience with vectors and matrices. The goal of the review is to highlight basic notation, operations, and matrix manipulations that are used frequently in fields like machine learning and optimization.
 
   * [Linear Algebra Refresher Course](https://br.udacity.com/course/linear-algebra-refresher-course--ud953)
-   * Udacity
-   * Descrição: This mini-course is intended for students who would like a refresher on the basics of linear algebra. The course attempts to provide the motivation for "why" linear algebra is important in addition to "what" linear algebra is.
+    * Udacity
+    * Descrição: This mini-course is intended for students who would like a refresher on the basics of linear algebra. The course attempts to provide the motivation for "why" linear algebra is important in addition to "what" linear algebra is.
 
   * [Linear Algebra | Princeton University](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
     * Princeton, Adrian Banner
