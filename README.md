@@ -16,8 +16,11 @@ Creio que o que vale para todos que estão neste caminho de aprendizado, é o tr
 Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primeiros pontos de conhecimento.
 
 ## Disciplinas
+
 ### 1. Matemática
+
 #### Álgebra Linear
+
 * [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
   * Carnegie Mellon, [J. Zico Kolter](http://www.cs.cmu.edu/~zkolter)
   * Descrição: This short course is a quick review of linear algebra, intended for students who have already taken a previous course in linear algebra or have some experience with vectors and matrices. The goal of the review is to highlight basic notation, operations, and matrix manipulations that are used frequently in fields like machine learning and optimization.
@@ -41,9 +44,10 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   * Stanford, Trevor Hastie e Rob Tibshirani
-  * Link alternativo para os vídeos e material [aqui](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-  * Stanford, Trevor Hastie e Rob Tibshirani
-  * Descrição: This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
+
+  * Link alternativo para os vídeos e material [aqui](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
+  * Descrição: This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
 ### 2. Machine Learning
 
