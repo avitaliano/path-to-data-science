@@ -16,7 +16,7 @@ Creio que o que vale para todos que estão neste caminho de aprendizado, é o tr
 Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primeiros pontos de conhecimento.
 
 ## Disciplinas
-### Matemática
+### 1. Matemática
 #### Álgebra Linear
 * [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
   * Carnegie Mellon, [J. Zico Kolter](http://www.cs.cmu.edu/~zkolter)
@@ -41,7 +41,13 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   * Stanford, Trevor Hastie e Rob Tibshirani
-  * Descrição: This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
-  
+  * Link alternativo para os vídeos e material [aqui](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+  * Stanford, Trevor Hastie e Rob Tibshirani
+  * Descrição: This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
+
+### 2. Machine Learning
+
+#### Introdução a Machine Learning
+
 
 Muitos tópicos desta lista foram acessados a partir do repositório [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
