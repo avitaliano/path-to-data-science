@@ -44,14 +44,14 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   * Stanford, Trevor Hastie e Rob Tibshirani
-
   * Link alternativo para os vídeos e material [aqui](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-
   * Descrição: This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
 ### 2. Machine Learning
 
-#### Introdução a Machine Learning
+* [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+  * Carnegie Mellon, [Larry Wasserman](Larry Wasserman)
+  * Descrição: Statistical Machine Learning is a second graduate level course in advanced machine learning, assuming students have taken Machine Learning (10-715) and Intermediate Statistics (36-705). The course covers methodology and theoretical foundations. 
 
 
 Muitos tópicos desta lista foram acessados a partir do repositório [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
