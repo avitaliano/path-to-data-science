@@ -51,7 +51,10 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
   * Coursera, Andrew NG
-  * Descrição: Este curso traz uma introdução abrangente sobre aprendizagem automática, mineração de dados, e reconhecimento de padrões. Os tópicos estudados incluem: (i) Aprendizagem supervisionada (algoritmos paramétricos e não paramétricos, máquinas vetoriais de suporte, núcleos e redes neurais). (ii) Aprendizagem não supervisionada (Algoritmos de agrupamento - clustering, redução dimensional, sistemas de recomendação, a algoritmos hierárquicos). (iii) A melhores técnicas de aprendizagem automática (viés indutivo / variância; processo de inovação em aprendizagem automática e inteligência artificial). 
+  * Descrição: Este curso traz uma introdução abrangente sobre aprendizagem automática, mineração de dados, e reconhecimento de padrões. Os tópicos estudados incluem: 
+    * (i) Aprendizagem supervisionada (algoritmos paramétricos e não paramétricos, máquinas vetoriais de suporte, núcleos e redes neurais). 
+    * (ii) Aprendizagem não supervisionada (Algoritmos de agrupamento - clustering, redução dimensional, sistemas de recomendação, a algoritmos hierárquicos). 
+    * (iii) A melhores técnicas de aprendizagem automática (viés indutivo / variância; processo de inovação em aprendizagem automática e inteligência artificial). 
 
 * [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
   * Carnegie Mellon, [Larry Wasserman](Larry Wasserman)
