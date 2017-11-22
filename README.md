@@ -35,9 +35,12 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 
 #### Estatística
 
-* [Statistics One](https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP)
-  * Descrição: Curso de introdução em estatstica (em inglês).
-    
+* [Introduction to Statistics](https://br.udacity.com/course/intro-to-statistics--st101)
+  * Udacity, Sebastian Thrun 
+  * Descrição: Curso de introdução em estatstica (em inglês)
+
+  * Minhas impressões: Curso **MUITO** bom. Ele ensina os principais conceitos da estatística desde o mais básico e vai elaborando os conceitos relacionando os assuntos de maneira muito didática.
+    
 * [Statistics 100 - Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   * Harvard, Joe Blitzstein
   * Descrição: Statistics 110 (Probability) has been taught at Harvard University by Joe Blitzstein (Professor of the Practice in Statistics, Harvard University) each year since 2006. The on-campus Stat 110 course has grown from 80 students to over 300 students per year in that time. Lecture videos, review materials, and over 250 practice problems with detailed solutions are provided. This course is an introduction to probability as a language and set of tools for understanding statistics, science, risk, and randomness. The ideas and methods are useful in statistics, science, engineering, economics, finance, and everyday life. Topics include the following.
