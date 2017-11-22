@@ -35,12 +35,10 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 
 #### Estatística
 
-* [Introduction to Statistics](https://br.udacity.com/course/intro-to-statistics--st101)
+* [Introdução à Estatística](https://br.udacity.com/course/intro-to-statistics--st101)
   * Udacity, Sebastian Thrun 
-  
-  * Descrição: Curso de introdução em estatística (em inglês)
-
-  * Minhas impressões: Curso **MUITO** bom. Ele ensina os principais conceitos da estatística desde o mais básico e vai elaborando os conceitos relacionando os assuntos de maneira muito didática, sempre com muitos exemplos e exercícios.
+  * Descrição: Curso de introdução em estatística (em inglês)
+  * Minhas impressões: Curso **MUITO** bom. Ele ensina os principais conceitos da estatística desde o mais básico e vai elaborando os conceitos relacionando os assuntos de maneira muito didática, sempre com muitos exemplos e exercícios.
        
 * [Introdução à Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
