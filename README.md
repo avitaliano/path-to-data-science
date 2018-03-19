@@ -48,7 +48,7 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
 * [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
   * Udacity
   
-### 4. Estatstica Avançada
+### 4. Estatística Avançada
 
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   * Stanford, Trevor Hastie e Rob Tibshirani
@@ -77,7 +77,7 @@ Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primei
   * Carnegie Mellon, [Larry Wasserman](Larry Wasserman)
   * Descrição: Statistical Machine Learning is a second graduate level course in advanced machine learning, assuming students have taken Machine Learning (10-715) and Intermediate Statistics (36-705). The course covers methodology and theoretical foundations. 
   
-### 6. Machine Learning
+### 7. Deep Learning
 
 * [Deep Learning](https://www.coursera.org/specializations/deep-learning)
   * Coursera, Andrew NG
