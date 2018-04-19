@@ -52,4 +52,4 @@ angle(c(1,2,-1), c(3,1,0) , is.degree = T)
 # Cauchy- Schwarz Inequality
 # | v * w | <= ||v|| * ||w||
 
-
+# Parallel
