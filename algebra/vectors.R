@@ -96,4 +96,36 @@ w <- c(0, 0)
 is.parallel_vectors(v,w)
 is.orthogonal_vectors(v,w)
 
+## projection
 
+projection <- function(v, b){
+
+  scalar_b <- scalar1(b)
+  return(dot_product(scalar_b, v) * scalar_b)
+}
+
+orthogonal_component <- function(v, b){
+
+  v_projected <- projection(v, b)
+  return( v - v_projected )
+}
+
+# quiz
+v <- c( 3.039, 1.879 )
+b <- c( 0.825, 2.036 )
+v_parallel <- projection(v, b)
+round(v_parallel, digits = 3)
+
+v <- c( -9.88, -3.264, -8.159 )
+b <- c( -2.155, -9.353, -9.473 )
+v_parallel <- projection(v, b)
+v_orthogonal <- orthogonal_component(v, b)
+round(v_parallel, digits = 3)
+round(v_orthogonal, digits = 3)
+
+v <- c( 3.009, -6.172, 3.692, -2.51 )
+b <- c( 6.404, -9.144, 2.759, 8.718 )
+v_parallel <- projection(v, b)
+v_orthogonal <- orthogonal_component(v, b)
+round(v_parallel, digits = 3)
+round(v_orthogonal, digits = 3)
