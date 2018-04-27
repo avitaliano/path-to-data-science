@@ -63,10 +63,23 @@ Considering ***v*** and ***w*** different from 0:
 * ***v*** is parallel to 2v, 1/2v
 * ***v*** a ***w*** are orthogonal if ***v.w = 0***
 
+---
+
 ### Projecting Vectors
 
 * Given any base vector **b**, let project a vector **v** onto **b**
 * Let ***proj<sub>b</sub>v*** or ***v<sup>||</sup>*** be the projection of **v** onto **b** 
 * Let **v** and **b** start at the same point, drawing a right triangle, then ***v<sup>||</sup>*** is adjacent leg and **v** is hypotenuse
-* Then the oposite leg can be expressed as ***v<sup>?</sup>***
+* Then the oposite leg can be expressed as ***v<sup>&#10178;</sup>***
+* So: ***cos(theta) = ||v<sup>||</sup>|| / ||v||***
+* Rearranging: ***||v<sup>||</sup>|| = ||v|| * cos(theta)***
+* From dot product (v,b): ***cos(theta) = v.b / (||v|| * ||b||)***
+* Replacing cos(theta): ***||v<sup>||</sup>|| = ||v|| * v.b / (||v|| * ||b||)***
+* Canceling ||v||: ***||v<sup>||</sup>|| = v.b / ||b|| = v.u<sub>b</sub>*** , since ***b/||b|| = u<sub>v</sub>***
+*
+* ***||v<sup>||</sup>|| = v.u<sub>b</sub>***
+* ***v<sup>||</sup>*** points in the same (oposite) direction as ***b***
+* So ***||v<sup>||</sup>|| * u<sub>b</sub> = v<sup>||</sup>***
+* Replacing ||v<sup>||</sup>||: ***(v.u<sub>b</sub>).u<sub>b</sub> = v***
+
 
