@@ -71,6 +71,7 @@ Considering ***v*** and ***w*** different from 0:
 * Let ***proj<sub>b</sub>v*** or ***v<sup>||</sup>*** be the projection of **v** onto **b** 
 * Let **v** and **b** start at the same point, drawing a right triangle, then ***v<sup>||</sup>*** is adjacent leg and **v** is hypotenuse
 * Then the oposite leg can be expressed as ***v<sup>&#10178;</sup>***
+* Then ***v*** can be expressed as ***v<sup>||</sup> + v<sup>&#10178;</sup>***
 * So: ***cos(theta) = ||v<sup>||</sup>|| / ||v||***
 * Rearranging: ***||v<sup>||</sup>|| = ||v|| * cos(theta)***
 * From dot product (v,b): ***cos(theta) = v.b / (||v|| * ||b||)***
