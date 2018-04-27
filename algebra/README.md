@@ -2,64 +2,71 @@
 
 ### Magnitude
 
-* Given any vector v = [v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>, ..., v<sub>n</sub>]:
-* Magnitude(v) = sqrt( v<sub>1</sub><sup>2</sup> + v<sub>2</sub><sup>2</sup> + v<sub>3</sub><sup>2</sup> + ... + v<sub>n</sub><sup>2</sup> ), or sqrt(sum(v<sub>i</sub><sup>2</sup>))
+* Given any vector ***v = [v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>, ..., v<sub>n</sub>]*** :
+* Magnitude(v) or ***||v|| = sqrt( v<sub>1</sub><sup>2</sup> + v<sub>2</sub><sup>2</sup> + v<sub>3</sub><sup>2</sup> + ... + v<sub>n</sub><sup>2</sup> )*** , or ***sqrt(sum(v<sub>i</sub><sup>2</sup>))***
 
 ---
 
 ### Direction
 
-* Vector is an unit vector if magnitude(v) = 1
-* Normalize(v) = v / magnitude(v)
+* Vector is an unit vector if ***||v|| = 1***
+* Normalize(v) or ***u<sub>v</sub> = v / ||v||***
 * Normalize(v) = unit vector pointing to the same direction as v
 * **Zero vector has no normalization nor direction**
 
 ---
 
 ### Inner Product (Dot Product)
-* inner_product(v, w) = v.w = magnitude(v) * magnitude(w) * cos(theta), where theta = the shorter angle between v and w
-* theta = arccos( v.w / (magnitude(v) * magnitude(w)) )
-* v.w = v<sub>1</sub> * w<sub>1</sub> + v<sub>2</sub> * w<sub>2</sub> + ... + v<sub>n</sub> * w<sub>n</sub>
+* inner_product(v, w) or ***v.w = ||v|| * ||w|| * cos(theta)*** , where theta = the shorter angle between v and w
+* ***theta = arccos( v.w / (||v|| * ||w||) )***
+* ***v.w = v<sub>1</sub> * w<sub>1</sub> + v<sub>2</sub> * w<sub>2</sub> + ... + v<sub>n</sub> * w<sub>n</sub>***
 
 #### Cauchy- Schwarz Inequality
-* Since -1 <= cos(x) <= 1 and,
-* v.w = magnitude(v) * magnitude(w) * cos(thetha),
-* \- magnitude(v) * magnitude(w) <= v.w. <= magnitude(v) * magnitude(w)
-* abs(v.w) <= magnitude(v) * magnitude(w)
+* Since ***-1 <= cos(x) <= 1*** and,
+* ***v.w = ||v|| * ||w|| * cos(thetha)***,
+* then ***\- ||v|| * ||w|| <= v.w. <= ||v|| * ||w||***
+* ***abs(v.w) <= ||v|| * ||w||***
 
 #### Facts 
-Considering v and w different from 0:
+Considering ***v*** and ***w*** different from 0:
 
 1.
 
-* if v.w = magnitude(v) * magnitude(w),
+* if ***v.w = ||v|| * ||w||***,
 * then cos(theta) = 1 and theta = 0
-* so v and w points to same direction (they are scalar from each other)
+* so ***v*** and ***w*** points to same direction (they are scalar from each other)
 
 2.
 
-* if v.w = \- magnitude(v) * magnitude(w),
+* if ***v.w = \- ||v|| * ||w||***,
 * then cos(theta) = \-1  and theta = 180<sup>o</sup>
-* so v and w points to oposite directions
+* so ***v*** and ***w*** points to oposite directions
 
 3.
 
-* if v.w = 0,
+* if ***v.w = 0***,
 * then cos(theta) = 0  and theta = 90<sup>o</sup>
-* so v and w are at a right angle to each other
+* so ***v*** and ***w***are at a right angle to each other
 
 4.
 
-* v.v = ?,
+* ***v.v*** = ?,
 * theta = 0, so cos(theta) = 1,
-* v.v = magnitude(v)<sup>2</sup>
-* another aspect of magnitude: magnitude(v) = sqrt(v.v.)
+* v.v = ||v||<sup>2</sup>
+* another aspect of magnitude: ***||v|| = sqrt(v.v)***
 
 ---
 
 ### Parallel and Orthogonal Vectors
 
-* v and w are parallel if one is a scalar multiple of the other.
-* v is parallel to 2v, 1/2v
-* v a w are orthogonal if v.w = 0
+* ***v*** and ***w*** are parallel if one is a scalar multiple of the other.
+* ***v*** is parallel to 2v, 1/2v
+* ***v*** a ***w*** are orthogonal if ***v.w = 0***
+
+### Projecting Vectors
+
+* Given any base vector **b**, let project a vector **v** onto **b**
+* Let ***proj<sub>b</sub>v*** or ***v<sup>||</sup>*** be the projection of **v** onto **b** 
+* Let **v** and **b** start at the same point, drawing a right triangle, then ***v<sup>||</sup>*** is adjacent leg and **v** is hypotenuse
+* Then the oposite leg can be expressed as ***v<sup>?</sup>***
 
