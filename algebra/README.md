@@ -80,6 +80,6 @@ Considering ***v*** and ***w*** different from 0:
 * ***||v<sup>||</sup>|| = v.u<sub>b</sub>***
 * ***v<sup>||</sup>*** points in the same (oposite) direction as ***b***
 * So ***||v<sup>||</sup>|| * u<sub>b</sub> = v<sup>||</sup>***
-* Replacing ||v<sup>||</sup>||: ***(v.u<sub>b</sub>).u<sub>b</sub> = v***
+* Replacing ||v<sup>||</sup>||: ***(v.u<sub>b</sub>).u<sub>b</sub> = v<sup>||</sup>|***
 
 
