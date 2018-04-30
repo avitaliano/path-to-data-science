@@ -85,4 +85,23 @@ Considering ***v*** and ***w*** different from 0:
 *
 * So projection of **v** onto **b**, ***proj<sub>b</sub>v =  v<sup>||</sup> = (v.u<sub>b</sub>).u<sub>b</sub>***
 
+---
+
+### Cross Product
+
+* Only exists in three dimensions
+* Cross Product ***v<sub>x</sub>w*** is a vector orthogonal to both ***v*** and ***w***
+* ***||v<sub>x</sub>w|| = ||v|| * ||w|| * sin(theta)***
+* If ***v*** or ***w*** is zero vector, then ***v<sub>x</sub>w = 0***
+* There are always 2 vectors resulting from the cross product
+  * Which one is the right one? 
+  * Use the "right hand" method: 
+  * thumb pointing the first vector
+  * indicator point to the second vector
+  * middle finger indicates cross product direction :)
+  * ***v<sub>x</sub>w = - (w<sub>x</sub>v)***
+* Formula for ***v<sub>x</sub>w*** :
+  * if  ***v = [x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>]*** , and ***w = [x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>]*** ,
+  * then ***v<sub>x</sub>w = [y<sub>1</sub> * z<sub>2</sub> - y<sub>2</sub> * z<sub>1</sub>, -(x<sub>1</sub> * z<sub>2</sub> - x<sub>2</sub> * z<sub>1</sub>), x<sub>1</sub> * y<sub>2</sub> - x<sub>2</sub> * y<sub>1</sub>]***
+
 
