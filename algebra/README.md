@@ -131,5 +131,33 @@ Suppose a stock-tranding situation, where I have 2 options (A and B) to put in t
 * &beta;-value = measure of correlation of a stock's price movements with market movements
 * &beta; of portfolio = weighted average of individual components's &beta;-values
 * So, if ***&beta;<sub>A</sub> = -1, &beta;<sub>B</sub> = 2***   &rArr;  ***&beta;<sub>Portfolio</sub> = w<sub>A</sub> * (-1) + w<sub>B</sub> * (2) =  2w<sub>B</sub> - w<sub>A</sub>***
+* ***&beta;<sub>Portfolio</sub> = 0*** means portifolio is uncorrelated with the market, with minimum market risk.
+* Finding the intersecion betweeh the 2 equations, tells the weight of each stock in the portfolio to minimize market risk.
+
+### Line in 2 dimensions
+
+Pieces that define a linke:
+* Basepoint: **x<sub>0</sub>>**
+* Direction vector **v**
+* Any point at the line can be described as ***x(t) = x<sub>0</sub> + t * v***
+* The line can be represented as ***Ax + By = k*** , 
+  * the base points as ***k/B*** and ***k/A***
+  * the direction vector as ***[B,-A]***
+* The line = set of points (x,y) such that ***[A B] * [x y] = k***
+* Vector ***[A, B]*** = normal vector of the line (also orthogonal to the line)
+
+### Intersecions of lines in 2D
+
+* If 2 lines have parallel normal vectors, they are parallel
+* How find nonparallel lines intersecion?
+  * Given 2 nonparallel lines:
+    * ***Ax + By = k<sub>1</sub>***
+    * ***Cx + Dy = k<sub>2</sub>***
+  * The intersection point is defined by:
+    * ***x = (D * k<sub>1</sub> - B * k<sub>2</sub>) / (A * D - B * C)***
+    * ***y = (-C * k<sub>1</sub> + A * k<sub>2</sub>) / (A * D - B * C)***
+
+
+
 
 
