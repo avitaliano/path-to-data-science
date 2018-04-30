@@ -129,3 +129,42 @@ v_parallel <- projection(v, b)
 v_orthogonal <- orthogonal_component(v, b)
 round(v_parallel, digits = 3)
 round(v_orthogonal, digits = 3)
+
+
+# Cross Product
+cross_product <- function(v, w){
+
+  if ( length(v) != 3)
+    stop("v has not 3 dimensions")
+  if ( length(w) != 3)
+    stop("w has not 3 dimensions")
+
+  x1 <- v[1]
+  y1 <- v[2]
+  z1 <- v[3]
+
+  x2 <- w[1]
+  y2 <- w[2]
+  z2 <- w[3]
+
+  return( c( y1 * z2 - y2 * z1,
+             -(x1 * z2 - x2 * z1),
+             x1 * y2 - x2 * y1))
+}
+
+magnitude_cross_product <- function(v,w){
+
+  theta <- angle(v,w)
+  return(magnitude(v) * magnitude(w) * sin(theta))
+}
+
+# quiz
+v <- c(8.462, 7.893, -8.187)
+w <- c(6.984, -5.975, 4.778)
+round(cross_product(v,w), digits = 3)
+v <- c(-8.987, -9.838, 5.031)
+w <- c( -4.268, -1.861, -8.866)
+round(magnitude_cross_product(v,w), digits = 3)
+v <- c(1.5, 9.547, 3.691)
+w <- c(-6.007, 0.124, 5.772)
+round(magnitude_cross_product(v,w)/2, digits = 3)
