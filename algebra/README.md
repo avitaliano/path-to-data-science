@@ -1,5 +1,7 @@
 # Linear Algebra
 
+## Vectors
+
 ### Magnitude
 
 * Given any vector ***v = [v<sub>1</sub>, v<sub>2</sub>, v<sub>3</sub>, ..., v<sub>n</sub>]*** :
@@ -103,5 +105,31 @@ Considering ***v*** and ***w*** different from 0:
 * Formula for ***v<sub>x</sub>w*** :
   * if  ***v = [x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>]*** , and ***w = [x<sub>2</sub>, y<sub>2</sub>, z<sub>2</sub>]*** ,
   * then ***v<sub>x</sub>w = [y<sub>1</sub> * z<sub>2</sub> - y<sub>2</sub> * z<sub>1</sub>, -(x<sub>1</sub> * z<sub>2</sub> - x<sub>2</sub> * z<sub>1</sub>), x<sub>1</sub> * y<sub>2</sub> - x<sub>2</sub> * y<sub>1</sub>]***
+  
+---
+  
+## Intersections
+  
+### Example
+  
+* "Flat Objects" = defined by **linear** equations
+* Linear equations:
+  * add and subtract variables and constants
+  * multiply a variable by a constant
+  * Examples:
+    * x + 2y = 1, y/2 -2z =x
+   * Nonlinear:
+     * x<sup>2</sup> - 1  = y, y/x = 3
+  
+* In real world, equations come from observed or modeled relationships between real-rowld quantities.
+
+Suppose a stock-tranding situation, where I have 2 options (A and B) to put in the portfolio.
+
+* w<sub>A</sub> = proportion of portfolio invested in A
+* w<sub>B</sub> = proportion of portfolio invested in B
+* So ***0 <= w<sub>A</sub>, w<sub>B</sub> <= 1*** , and ***w<sub>A</sub> + w<sub>B</sub> = 1***  
+* &beta;-value = measure of correlation of a stock's price movements with market movements
+* &beta; of portfolio = weighted average of individual components's &beta;-values
+* So, if ***&beta;<sub>A</sub> = -1, &beta;<sub>B</sub> = 2***   &rArr;  ***&beta;<sub>Portfolio</sub> = w<sub>A</sub> * (-1) + w<sub>B</sub> * (2) =  2w<sub>B</sub> - w<sub>A</sub>***
 
 
