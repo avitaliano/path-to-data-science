@@ -38,13 +38,15 @@ dot_product(c(1,2,-1), c(3,1,0) )
 
 angle <- function(x, y, is.degree = FALSE){
 
-  angle.rad <- acos( dot_product(x, y) / (magnitude(x) * magnitude(y)))
+  angle <- round(dot_product(x, y) / (magnitude(x) * magnitude(y)), digits = 5)
+
+  angle.rad <- acos(angle)
+
   if (is.degree){
     angle.rad * 180 / pi
   } else{
     angle.rad
   }
-
 }
 
 # quiz
