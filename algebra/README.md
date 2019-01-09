@@ -48,7 +48,7 @@ Considering ***v*** and ***w*** different from 0:
 
 * if ***v.w = 0***,
 * then cos(theta) = 0  and theta = 90<sup>o</sup>
-* so ***v*** and ***w***are at a right angle to each other
+* so ***v*** and ***w*** are at a right angle to each other
 
 4.
 
