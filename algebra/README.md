@@ -25,7 +25,7 @@
 
 #### Cauchy- Schwarz Inequality
 * Since ***-1 <= cos(x) <= 1*** and,
-* ***v.w = ||v|| * ||w|| * cos(thetha)***,
+* ***v.w = ||v|| * ||w|| * cos(thetha)*** ,
 * then ***\- ||v|| * ||w|| <= v.w. <= ||v|| * ||w||***
 * ***abs(v.w) <= ||v|| * ||w||***
 
@@ -34,7 +34,7 @@ Considering ***v*** and ***w*** different from 0:
 
 1.
 
-* if ***v.w = ||v|| * ||w||***,
+* if ***v.w = ||v|| * ||w||*** ,
 * then cos(theta) = 1 and theta = 0
 * so ***v*** and ***w*** points to same direction (they are scalar from each other)
 
