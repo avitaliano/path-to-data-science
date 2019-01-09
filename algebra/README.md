@@ -40,7 +40,7 @@ Considering ***v*** and ***w*** different from 0:
 
 2.
 
-* if ***v.w = \- ||v|| * ||w||***,
+* if ***v.w = \- ||v|| * ||w||*** ,
 * then cos(theta) = \-1  and theta = 180<sup>o</sup>
 * so ***v*** and ***w*** points to oposite directions
 
