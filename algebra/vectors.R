@@ -35,6 +35,8 @@ dot_product <- function (x, y){
 
 # quiz
 dot_product(c(1,2,-1), c(3,1,0) )
+dot_product(c(7.887, 4.138), c(-8.802, 6.776))
+dot_product(c(-5.955, -4.904, -1.874), c(-4.496, -8.755, 7.103))
 
 angle <- function(x, y, is.degree = FALSE){
 
@@ -52,6 +54,8 @@ angle <- function(x, y, is.degree = FALSE){
 # quiz
 angle(c(1,2,-1), c(3,1,0))
 angle(c(1,2,-1), c(3,1,0) , is.degree = T)
+angle(c(3.183, -7.627), c(-2.668, 5.319), is.degree = FALSE )
+angle(c(7.35, 0.221, 5.188), c(2.751, 8.259, 3.985), is.degree = TRUE)
 
 
 is.parallel_vectors <- function(x, y){
