@@ -1,86 +1,18 @@
 # Path to Data Science
-A ideia é organizar material, cursos, moocs, para aprimorar os conhecimentos necessários para se tornar um cientista de dados.
 
-O primeiro problema que encontrei é **como saber o que aprender**!
+The main ideia behind this repo is to organize material, code and notes from courses that will help me navigate through the several path possibilities of becoming a better data professional and eventually a data scientist.
 
-Depois de muito tempo lendo, assistindo a vídeos no youtube, conversando com amigos no mesmo caminho, vi que não há receita de bolo
-(apesar de ter muitas receitas pela internet afora).
+The first big issue is **how to know what to know about?**
 
-Creio que o que vale para todos que estão neste caminho de aprendizado, é o tripé de sustentação:
-* Conhecimentos em matemática e estatística
-* Conhecimentos de programação
-* Conhecimentos específicos de uma área (a área que você quer atuar como cientista de dados)
+After a lot of readings, youtube videos, chatting with friends trying to walk this same path, I've surrendered myself trying to follow the perfect path, first because there is no such a path, and second because each one has his own backgroud, with his own objectives.
 
-Portanto, vou tentar disponibilizar e organizar aqui, conteúdo para os 2 primeiros pontos de conhecimento.
+So after almost 2 years without any step in the path, here I am again. And now, I'll do different from the first time: I'm not sharing courses in advance, that I will eventually attend to. I'll share step by step, along the process.
 
-## Disciplinas
 
-### 1. Estatística Básica
+## [Methods and Statistics in Social Sciences Specialization](https://www.coursera.org/specializations/social-science)
 
-* [Introdução à Estatística](https://br.udacity.com/course/intro-to-statistics--st101)
-  * Udacity, Sebastian Thrun 
-  * Descrição: Curso de introdução em estatística (em inglês)
-  * Minhas impressões: Curso **MUITO** bom. Ele ensina os principais conceitos da estatística desde o mais básico e vai elaborando os conceitos relacionando os assuntos de maneira muito didática, sempre com muitos exemplos e exercícios.
-       
-* [Introdução à Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
-
-* [Introdução à Estatística Inferencial](https://br.udacity.com/course/intro-to-inferential-statistics--ud201)
-
-### 2. Álgebra Linear
-
-* [Linear Algebra Review](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
-  * Carnegie Mellon, [J. Zico Kolter](http://www.cs.cmu.edu/~zkolter)
-  * Descrição: This short course is a quick review of linear algebra, intended for students who have already taken a previous course in linear algebra or have some experience with vectors and matrices. The goal of the review is to highlight basic notation, operations, and matrix manipulations that are used frequently in fields like machine learning and optimization.
-
-* [Linear Algebra Refresher Course](https://br.udacity.com/course/linear-algebra-refresher-course--ud953)
-  * Udacity
-  * Descrição: This mini-course is intended for students who would like a refresher on the basics of linear algebra. The course attempts to provide the motivation for "why" linear algebra is important in addition to "what" linear algebra is.
-
-* [Linear Algebra | Princeton University](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
-  * Princeton, Adrian Banner
-  * Descrição: Disciplina de Álgebra Linear, ministrada pelo professor Adrian Banner na Universidade de Princeton.
-  
-### 3. Introdução a Data Science
-
-* [Intro to Data Analysis](https://classroom.udacity.com/courses/ud170)
-  * Udacity
-  
-* [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
-  * Udacity
-  
-### 4. Estatística Avançada
-
-* [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-  * Stanford, Trevor Hastie e Rob Tibshirani
-  * Link alternativo para os vídeos e material [aqui](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-  * Descrição: This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
-  
-* [Statistics 100 - Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-  * Harvard, Joe Blitzstein
-  * Descrição: Statistics 110 (Probability) has been taught at Harvard University by Joe Blitzstein (Professor of the Practice in Statistics, Harvard University) each year since 2006. The on-campus Stat 110 course has grown from 80 students to over 300 students per year in that time. Lecture videos, review materials, and over 250 practice problems with detailed solutions are provided. This course is an introduction to probability as a language and set of tools for understanding statistics, science, risk, and randomness. The ideas and methods are useful in statistics, science, engineering, economics, finance, and everyday life. Topics include the following.
-
-### 5. Data Science
-
-* [Harvard Data Science (cs109)](http://cs109.github.io/2015/)
-  * Harvard
-
-### 6. Machine Learning
-
-* [Machine Learning](https://www.coursera.org/learn/machine-learning)
-  * Coursera, Andrew NG
-  * Descrição: Este curso traz uma introdução abrangente sobre aprendizagem automática, mineração de dados, e reconhecimento de padrões. Os tópicos estudados incluem: 
-    * (i) Aprendizagem supervisionada (algoritmos paramétricos e não paramétricos, máquinas vetoriais de suporte, núcleos e redes neurais). 
-    * (ii) Aprendizagem não supervisionada (Algoritmos de agrupamento - clustering, redução dimensional, sistemas de recomendação, a algoritmos hierárquicos). 
-    * (iii) A melhores técnicas de aprendizagem automática (viés indutivo / variância; processo de inovação em aprendizagem automática e inteligência artificial). 
-
-* [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
-  * Carnegie Mellon, [Larry Wasserman](Larry Wasserman)
-  * Descrição: Statistical Machine Learning is a second graduate level course in advanced machine learning, assuming students have taken Machine Learning (10-715) and Intermediate Statistics (36-705). The course covers methodology and theoretical foundations. 
-  
-### 7. Deep Learning
-
-* [Deep Learning](https://www.coursera.org/specializations/deep-learning)
-  * Coursera, Andrew NG
-  
-Muitos tópicos desta lista foram acessados a partir do repositório [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
+* Offered by: University of Amsterdam
+* Description: Identify interesting questions, analyze data sets, and correctly interpret results to make solid, evidence-based decisions.
+This Specialization covers research methods, design and statistical analysis for social science research questions. In the final Capstone Project, you’ll apply the skills you learned by developing your own research question, gathering data, and analyzing and reporting on the results using statistical methods.
+* [Notes](social-science)
 
