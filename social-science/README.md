@@ -44,3 +44,10 @@ Scientific methods
 4. transparent: replicated by anyone, publicly shared
 5. falsifiable: there must be facts that contradict the hypothesis
 6. logically consistent: no internal contradiction
+
+### Claims
+* observation: doesn't describe/explain general relation
+* hypothesis: describes/explains pattern, general relation
+* Law: strongly supported hypothesis
+* Theory: overarching explanation of many related phenomena
+
