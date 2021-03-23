@@ -156,3 +156,20 @@ Internal validity is an important evaluation criterion. If internal validity is 
 ### What different relations and roles can variables have?
 Before we can move on to the next module and discuss research designs, you first have to know what variables are and what role different types of variables play. In the last two videos we will consider variables that are central to our hypothesis and other, extraneous variables that are not of primary interest, but that might have an unwanted influence. Obvious types are variables that represent the cause and effect, but can you think of other types?
 
+### Variables of Interest
+
+* construct: denotes property in general, abstract terms
+* variable: operationalized concrete, expression of construct
+  * dependent: effect variable (response/outcome/output)
+  * independt: cause variable (input/predictor)
+  
+### Variables of disinterest
+* confounders
+  * related to independent + dependent variables
+  * partially or entirely accounts for relationship
+* control variables
+  * likely to be related to independent + dependent variables
+  * effects can be controlled for (unlike confounders)
+* background variables
+  * not relevant in relation between independnt + dependent variables
+  * relevant for determining representativeness (age, gender, etc.)
