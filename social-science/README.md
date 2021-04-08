@@ -173,3 +173,40 @@ Before we can move on to the next module and discuss research designs, you first
 * background variables
   * not relevant in relation between independnt + dependent variables
   * relevant for determining representativeness (age, gender, etc.)
+  
+ ### Quiz question
+ Supose an experiment where we want to answer this question: Would credt card users pay the full amount more often if the card statement is simpler and clearer?
+ At the sample selection, we choose to randomsly select men to the treatment group and women to the control group. The results show that the treatment works.
+ About the experiment:
+ 1. Is ok to assume that men tend to pay more often full amount.
+ 2. There is a selection bias at the sample.
+ 3. There is a diferent maturation time between the two groups.
+
+##  Week 3
+### What are the essential features of a true experiment?
+We'll start off with true experiments, that form our best defense against alternative explanations. Before we can look at specific experimental designs, you need to know the general characteristics of an experiment.
+
+#### True Experiments
+* maximize internal validity (RCTs)
+* manipulation
+	* to ensure cause precedes effect
+* comparison
+	* to ensure effect does not occur naturally
+* randomization
+	* to ensure there are no other explanations for the effect
+
+### What are other ways of comparing?
+Before we get into specific experimental designs, you should be familiar with two key variations on the basic theme (comparing different groups of participants - exposed to different levels of the independent variable - in terms of their score on the dependent variable). First of all, it's possible to look at the separate and combined effect of two or more independent variables in one study. Such research designs are referred to as factorial designs. Second, it is sometimes possible to expose participants to, not one, but all levels of the independent variable. These designs are generally referred to as repeated measured designs.
+
+#### Factorial Designs
+
+* several independent variables (factors) investigated simultaneously.
+* main effects: effects on the factors separately
+* interaction effects: combined effects
+* incomplete designs: not every combination is tested
+
+#### Repeated Measures
+* between factor: each participant experiences one level of treatment
+* within factor: each participant experiences all levels of treatment
+
+
