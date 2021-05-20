@@ -300,3 +300,35 @@ Matching can be a really good idea, but in some cases it can be potentially dang
 
 4. Replicated Interrupted Time-series: control-group 
 
+### What if you cannot manipulate either?
+
+Consider correlational designs, where no causal direction is specified or only very modest, cautionary causal inferences are made. There are some special types of research that are important to know, nut that do not fit neatly into the category experimental, quasi-experimental or correlation design.
+
+#### Correlational Designs
+
+* no manipulation of independent variable, or
+* no independent variable identified
+* no causal direction specified
+
+1. cross section design
+2. time-series design: many measurements in time (an individual)
+3. panel design: many measurements in time (group of people)
+
+#### Other designs
+1. Case study: focus one person/group (as a whole)
+    * qualitative: generating hypotheses more than testing
+	* negative analysis: contradictary evidence (one counter example)
+
+2. Evaluation research
+    * effect of policy/program
+	* summarive: outcome/output
+	* formative: process
+	* applied, usually non-experimental
+
+3. Intervention study
+    * effect of treatment on individuals
+	* usually quase-experimental
+	
+4. Validation study
+    * assesses quality of instrument
+	
