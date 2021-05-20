@@ -196,6 +196,7 @@ We'll start off with true experiments, that form our best defense against altern
 	* to ensure there are no other explanations for the effect
 
 ### What are other ways of comparing?
+
 Before we get into specific experimental designs, you should be familiar with two key variations on the basic theme (comparing different groups of participants - exposed to different levels of the independent variable - in terms of their score on the dependent variable). First of all, it's possible to look at the separate and combined effect of two or more independent variables in one study. Such research designs are referred to as factorial designs. Second, it is sometimes possible to expose participants to, not one, but all levels of the independent variable. These designs are generally referred to as repeated measured designs.
 
 #### Factorial Designs
@@ -206,7 +207,96 @@ Before we get into specific experimental designs, you should be familiar with tw
 * incomplete designs: not every combination is tested
 
 #### Repeated Measures
-* between factor: each participant experiences one level of treatment
+* between factor (independent variables that can be manipulated): each participant experiences one level of treatment
 * within factor: each participant experiences all levels of treatment
 
+* Repeated Measures Design: measured repeatedly (at least 1 within factor)
+* Longitudinal Design: measured repeatedly for a long period
+
+#### Manipulation
+
+* control over independent variable
+* value/level determined by researcher
+* control over external variables: rule out alternative explanations
+
+* levels/conditions/groups
+* fully controlled variable: experimental variable
+* intrinsic property of participant that cannot be controlled: individual difference variables
+* seemingly non-manipulable variables that can be manipulated
+
+* manipulation check: to be sure manipulation actualy takes place
+
+#### Control of variables of disinterest
+
+* ideal: only difference = independent variable
+* Ceteris paribus/all other things equal
+
+* Control Variables
+
+#### Lab vs. Field
+
+* Lab (under researcher control): maximizes *internal validity*
+    * low ecological validity:does not imply low construct validity or low external validity
+* Field
+    * uncontrolled environments
+	* maximizes external validity
+	
+#### Randomization (or random assignment)
+* eliminates all systematic differences between participants in different conditions/groups *on average*
+* any particular study -> unequal distribution is possible (randomization faillure)
+* randomization check: distribution over conditions are equal
+* restrited randomization
+    * blocking
+	* stratified 
+
+##### Randomization with repeated measures
+* counterbalancing: order randomized
+
+#### Experimental Designs
+
+* Twu-group design: experimental/control groups, with random assignment
+
+* Twu-group pre/post design: experimental/control groups, with random assignment, with pre-test (to avoid maturation)
+    * pre-test can sensitize
+	
+* Solomon 4-Group design: experiment run twice: one with pre-test, and other without pre-test
+
+* Within/repeated measures: change order of conditions experienced
+
+### What if you cannot assing randomly?
+In that case we automatically consider a study quasi-experimental, with a seemingly attractive method to approximate randomisation, called matching.  
+Matching can be a really good idea, but in some cases it can be potentially dangerous, because it is a really complex concept.
+
+#### Matching
+
+* threat of selection to internal validity
+* pragmatic/ethical reasons
+* independent -> individual differences variable (i.e.:sex, age, etc.)
+
+* Matching on relevant background variables
+* DANGER: undermatching
+    * measured with some error
+	* related to the variables of interest
+	* due to regression to the mean: when the pool of participants that scored high on first measure, score on average lower on the second one.
+
+#### Quasi-Experimental Designs
+
+* non random assignment
+    * impractical/unethical
+	* impossible due to individual differences variable = non-manipulable
+	* natural events: natural experiments (wars, traumas, etc.)
+* sometimes no manipulation, or comparison
+* investigates causal relation
+* control over extraneous variables
+* values selected, not manipulated (like correlational studies)
+
+##### Designs
+
+1. Static group comparison: almost like true experiment except for the non randomized assignment
+
+2. Pre/Post Test Non-equivalent Control Group
+
+3. Interrupted Time-series: more mesurement before and after the experiment intervention (threat of history)
+
+4. Replicated Interrupted Time-series: control-group 
 
