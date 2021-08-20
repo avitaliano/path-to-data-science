@@ -331,4 +331,45 @@ Consider correlational designs, where no causal direction is specified or only v
 	
 4. Validation study
     * assesses quality of instrument
+
+## Week 4
+
+### How do you measure something?
+
+We will start by considering operationalization in more detail. The term operationalization will be distinguished from the more general terms variable and construct.
+
+#### Operationalization
+
+Specific, concrete method to measure/manipulate a construct
+
+Example:
+* Abstract, general construct: Political Power. 
+* Less abstract, more specific: (variable) influence in parliament.
+* Bills passed, years in parliament, analysts to rate 
+
+### What is measurement exactly?
+
+With this bit of terminology (construct/variable/operationalization) out of the way, we can consider what measurement is exactly. This might seem like an easy and obvious question, but measurement is more than just assigning numbers! We will discuss this in the video on the structure of measurement and see that it is assignment of numbers in a way that represents the structure of a certain attribute. The types of structures or relations that we can distinguish are referred to as measurement levels (nominal/ordinal/interval/ratio). This is pretty difficult material, so don't worry if you have to watch these videos several times. It helps to try to come up with your own examples, especially in the video on measurement levels. In the video on variable types we will look at different ways to categorize variables according to their measurement characteristics.
+
+#### Measurement Structure
+
+* what information is (or is not) captured with numbers
+* measurement: representatino of relations between persons, groups, objects on a property using relations between numbers
+
+#### Measurement Levels
+* type of relationship that can be interpreted
+    * inequality: nominal (categorical)
+	* order: ordinal (test to assess math ability)
+	* differences: interval (temperature)
+	* ratios: ratio 
+
+### How do you know whether you have used the right instrument? 
+Now that we know what measurement is, how do we determine if an instrument measures the intended property well? In order to assess measurement quality we use the same criteria we used earlier, we will assess measurement quality in terms of validity and reliability. These concepts have a slightly different, more specific meaning in the context of measurement however. The interview with Andries van der Ark also provides some useful information on these concepts! These concepts are discussed with self-report measured in mind, but we do consider observational measures briefly when we look at reliability.
+
+#### Measurement/Construct Validity
+
+* Face validity: expert assessment of the instrument
+* Predictive/Criterion validity:
+    * instrument predicts relevant property
+	* something is measured consistently... not necessarily intended construct
 	
