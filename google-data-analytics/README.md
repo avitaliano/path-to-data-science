@@ -41,3 +41,46 @@
 3. What did we not consider before?
 
 ### Weeek 3
+
+#### Data life cicle
+1. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+
+2. Capture: Collect or bring in data from a variety of different sources.
+
+3. Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+
+4. Analyze: Use the data to solve problems, make decisions, and support business goals.
+
+5. Archive: Keep relevant data stored for long-term and future reference.
+
+6. Destroy: Remove data from storage and delete any shared copies of the data.
+
+#### 6 Phases Data Analysis
+
+1. Ask
+  * What is the problem that we're trying to solve? What is the purpose of this analysis? What are we hoping to learn from it?
+  * You want to ask all of the right questions at the beginning of the engagement so that you better understand what your leaders and stakeholders need from this analysis.
+
+
+2. Prepare
+  * We need to be thinking about the type of data we need in order to answer the questions that we've set out to answer based on what we learned when we asked the right questions.
+  * How collect the data
+  
+3. Process
+  * Data cleansing: find and eliminate errors
+  * Transform, enrich, remove outliers, etc.
+
+4. Analyze
+  * Transform and organize info: draw conclusions
+  * As objective and unbiased as possible
+  * Let data speak for itself
+
+5. Share
+  * Interpret results and communicate them
+  * Visualization tools
+  
+6. Act
+  * Put in motion decisions that were made.
+  * Interventions
+
+### Weeek 4
