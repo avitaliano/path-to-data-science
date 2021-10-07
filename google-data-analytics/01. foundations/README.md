@@ -84,3 +84,39 @@
   * Interventions
 
 ### Weeek 4
+1. Spreadsheets
+2. SQL
+3. Data viz.
+
+### Weeek 5
+
+1. Issue: topic/subject to investigate
+2. Question: designed to discover information
+3. Problem: obstacle or complication that needs to be worked out
+4. Fairness: ensuring that your analysis does not create or reinforce bias
+
+#### Job Search
+
+Factors:
+* Industry
+* Tools
+* Location
+* Travel
+* Culture
+
+[Job search](https://www.coursera.org/learn/foundations-data/lecture/GuO5O/data-analysts-in-different-industries)
+
+[The Quant Crunch: How the Demand for Data Science Skills is Disrupting the Job Market](https://www.ibm.com/downloads/cas/3RL3VXGA)
+
+#### Advices
+1. Think of a time where you've used data to solve a problem.
+2. Increase your professional network
+3. Increase your online footprint
+4. Linkedin updated, github, etc.
+5. Prepare questions to the interviews (understand team/job better)
+6. Reach out the recruiter directly
+
+### Wrap up
+*The saying is true, there are no bad questions. Being open to learning is one of the most important qualities for a data analyst.*
+
+
