@@ -124,6 +124,55 @@ These six steps can help you to break the data analysis process into smaller, ma
 * Vague questions: questions that aren’t specific or don’t provide context
   * Example: Does the tool work for you?
 
+## Week 2
+
+### Data vs Metrics
+
+## Week 3
+
+### Spreadsheets :-)
+
+## Week 4
+
+### Working with Stakeholders
+
+#### Working effectively with stakeholders
+
+When you're working with each group of stakeholders- from the executive team, to the customer-facing team, to the data science team, you'll often have to go beyond the data. Use the following tips to communicate clearly, establish trust, and deliver your findings across groups.
+
+1. Discuss goals. Stakeholder requests are often tied to a bigger project or goal. When they ask you for something, take the opportunity to learn more. Start a discussion. Ask about the kind of results the stakeholder wants. Sometimes, a quick chat about goals can help set expectations and plan the next steps.
+
+2. Feel empowered to say “no.” Let’s say you are approached by a marketing director who has a “high-priority” project and needs data to back up their hypothesis. They ask you to produce the analysis and charts for a presentation by tomorrow morning. Maybe you realize their hypothesis isn’t fully formed and you have helpful ideas about a better way to approach the analysis. Or maybe you realize it will take more time and effort to perform the analysis than estimated. Whatever the case may be, don’t be afraid to push back when you need to. 
+
+Stakeholders don’t always realize the time and effort that goes into collecting and analyzing data. They also might not know what they actually need. You can help stakeholders by asking about their goals and determining whether you can deliver what they need. If you can’t, have the confidence to say “no,” and provide a respectful explanation. If there’s an option that would be more helpful, point the stakeholder toward those resources. If you find that you need to prioritize other projects first, discuss what you can prioritize and when. When your stakeholders understand what needs to be done and what can be accomplished in a given timeline, they will usually be comfortable resetting their expectations. You should feel empowered to say no-- just remember to give context so others understand why. 
+
+3. Plan for the unexpected. Before you start a project, make a list of potential roadblocks. Then, when you discuss project expectations and timelines with your stakeholders, give yourself some extra time for problem-solving at each stage of the process.
+
+4. Know your project. Keep track of your discussions about the project over email or reports, and be ready to answer questions about how certain aspects are important for your organization. Get to know how your project connects to the rest of the company and get involved in providing the most insight possible. If you have a good understanding about why you are doing an analysis, it can help you connect your work with other goals and be more effective at solving larger problems. 
+
+5. Start with words and visuals. It is common for data analysts and stakeholders to interpret things in different ways while assuming the other is on the same page. This illusion of agreement* has been historically identified as a cause of projects going back-and-forth a number of times before a direction is finally nailed down. To help avoid this, start with a description and a quick visual of what you are trying to convey. Stakeholders have many points of view and may prefer to absorb information in words or pictures. Work with them to make changes and improvements from there. The faster everyone agrees, the faster you can perform the first analysis to test the usefulness of the project, measure the feedback, learn from the data, and implement changes.
+
+6. Communicate often. Your stakeholders will want regular updates on your projects. Share notes about project milestones, setbacks, and changes. Then use your notes to create a shareable report. Another great resource to use is a change-log, which you will learn more throughout the program. For now, just know that a change-log is a file containing a chronologically ordered list of modifications made to a project. Depending on the way you set it up, stakeholders can even pop in and view updates whenever they want.
+
+*Jason Fried, Basecamp, www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html
+
+### Focus on what matters
+
+1. Who are the primary and secondary stakeholders?
+  * Take time to identify who are they and what are their goals.
+
+2. How is managing the data?
+  * Find those who know better the data you will use.
+
+3. Where can you go for help?
+
+### Clear communication
+
+Before communicate, think about:
+1. Who your audience is
+2. What they already know
+3. What they need to know
+4. How you can communicate that effectively to them
 
 
- 
+
