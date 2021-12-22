@@ -174,5 +174,68 @@ Before communicate, think about:
 3. What they need to know
 4. How you can communicate that effectively to them
 
+### Tips for effective communication
 
+1. Learn as you go and ask questions.
+2. Practice good writing habits.
+3. Read your emails out loud.
+4. Answer in a timely manner
+
+### Balancing expectations and realistic goals
+
+1. Set a reasonable and realistic timeline
+2. Flag problems early for stakeholders
+3. Set realistic expectations at every stage of the project
+
+### Limitations of data
+
+#### Incomplete (or nonexistent) data
+
+If you have incomplete or nonexistent data, you might realize during an analysis that you don't have enough data to reach a conclusion. Or, you might even be solving a different problem altogether! For example, suppose you are looking for employees who earned a particular certificate but discover that certification records go back only two years at your company. You can still use the data, but you will need to make the limits of your analysis clear. You might be able to find an alternate source of the data by contacting the company that led the training. But to be safe, you should be up front about the incomplete dataset until that data becomes available.
+
+#### Misaligned data
+
+If you're collecting data from other teams and using existing spreadsheets, it is good to keep in mind that people use different business rules. So one team might define and measure things in a completely different way than another. For example, if a metric is the total number of trainees in a certificate program, you could have one team that counts every person who registered for the training, and another team that counts only the people who completed the program. In cases like these, establishing how to measure things early on standardizes the data across the board for greater reliability and accuracy. This will make sure comparisons between teams are meaningful and insightful.
+
+#### Dirty data
+
+Dirty data refers to data that contains errors. Dirty data can lead to productivity loss, unnecessary spending, and unwise decision-making. A good data cleaning effort can help you avoid this. As a quick reminder, data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. When you find and fix the errors - while tracking the changes you made - you can avoid a data disaster. You will learn how to clean data later in the training.
+
+#### Clear story
+
+Avinash Kaushik, a Digital Marketing Evangelist for Google, has lots of great tips for data analysts in his blog: [Occam's Razor](https://www.kaushik.net/avinash/). Below are some of the best practices he recommends for good data storytelling: 
+
+1. Compare the same types of data: Data can get mixed up when you chart it for visualization. Be sure to compare the same types of data and double check that any segments in your chart definitely display different metrics. 
+
+2. Visualize with care: A 0.01% drop in a score can look huge if you zoom in close enough. To make sure your audience sees the full story clearly, it is a good idea to set your Y-axis to 0.
+
+3. Leave out needless graphs: If a table can show your story at a glance, stick with the table instead of a pie chart or a graph. Your busy audience will appreciate the clarity.
+
+4. Test for statistical significance: Sometimes two datasets will look different, but you will need a way to test whether the difference is real and important. So remember to run statistical tests to see how much confidence you can place in that difference.
+
+5. Pay attention to sample size: Gather lots of data. If a sample size is small, a few unusual responses can skew the results. If you find that you have too little data, be careful about using it to form judgments. Look for opportunities to collect more data, then chart those trends over longer periods.
+
+### Meetings best practices
+
+* Do:
+  * Come prepared: 
+    * bring what you need; 
+	* read the meeting agenda; 
+	* prepare notes and presentations; 
+	* be ready to answer questions
+  * Be on time 
+  * Pay attention
+  * Ask questions
+  
+* Don't:
+  * Show up unprepared
+  * Arrive late
+  * Be distracted
+  * Dominate the conversation
+  * Talk over others
+  * Distract people with unfocused discussion
+  
+
+  
+  
 
