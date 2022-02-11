@@ -122,9 +122,53 @@ Finally, keep in mind that data visualization is an art form, and it takes time 
 
 * [The Wall Street Journal Guide to Information Graphics](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393072959): The Dos and Don'ts of Presenting Data, Facts, and Figures: This is a comprehensive guide to data visualization, including chapters on basic data visualization principles and how to create useful data visualizations even when you find yourself in a tricky situation. This is a useful book to add to your data visualization library, and you can reference it over and over again. 
 
-#### Connecting images with data
+#### Dataviz impact
+
+##### Elements for effective visuals
+
+1. Clear meaning
+2. Sophisticated use of contrast
+3. Refined execution
+
+##### Five phases of the design process
+
+1. Empathize
+2. Define
+3. Ideate
+4. Prototype
+5. Test
+
+#### What makes an effective visualization?
+
+The key to effective presentations is data visualizations that are clear and convincing. In turn, the key to effective visualizations is selecting the best way to depict your data. 
+
+You have learned about a few types of visualizations (e.g., bar graphs, pie charts) and what each type is best at emphasizing. Determining which type of visualization to use is essential to giving your presentation the impact it needs.
+
+So far, you have considered a few rules about what makes a helpful data visualization:
+
+1. Five-second rule: A data visualization should be clear, effective, and convincing enough to be absorbed in five seconds or less.
+
+2. Color contrast: Graphs and charts should use a diverging color palette to show contrast between elements.
+
+3. Conventions and expectations: Visuals and their organization should align with audience expectations and cultural conventions. For example, if the majority of your audience associates green with a positive concept and red with a negative one, your visualization should reflect this.
+
+4. Minimal labels: Titles, axes, and annotations should use as few labels as it takes to make sense. Having too many labels makes your graph or chart too busy. It takes up too much space and prevents the labels from being shown clearly.
+
+#### Tableau resources for combining multiple data sources
+Now that you have some experience working with data in Tableau, you are ready to start doing more, including combining multiple data sources. This reading will provide you with some how-to guides for that, and other helpful resources you can use as you practice using Tableau on your own. 
 
 
-## Week 2
-## Week 3
-## Week 4
+* [Set up data sources](https://help.tableau.com/current/pro/desktop/en-us/datasource_prepare.htm): This page links to other resources explaining how to set up your data sources and prepare them for analysis once you have connected them to your Tableau account. It specifically includes articles explaining how to join or blend data, and what a union is and how they work. This is a great starting point as you get ready to begin using and combining data sources. 
+
+* [Join your data](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm): Joining refers to the process of combining data sources based on common fields. This article gives a more detailed explanation of the different joins, how to use them in Tableau, and an example join with a step-by-step guide. 
+
+* [Don’t be scared of relationships](https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_dont_be_scared.htm): Relationships allow you to combine multiple data sources in Tableau. This is a more flexible alternative to joins, and doesn’t force you to create one single table with your multiple data sources. This article will give you more insight into how relationships work. 
+
+* [How relationships differ from joins](https://help.tableau.com/current/online/en-us/datasource_relationships_learnmorepage.htm): 
+This article goes into more detail about the differences between using relationships and joins, and guides you through the process of using relationships to combine data. 
+
+* [Blend your data](https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm): Data blending is another method you can use to combine multiple data sources. Instead of truly combining the data, blends allow you to query and aggregate data from multiple sources. This resource goes into more detail about blending and includes a tutorial. 
+
+* [Combining multiple date fields](https://kb.tableau.com/articles/howto/combining-start-and-end-dates-into-a-single-axis): This resource provides examples that explain how to combine date fields when using four different methods of data combination in Tableau. 
+
+These are just a few resources you can use. You can also find more information online or in the [Tableau community forums](https://community.tableau.com/s/).

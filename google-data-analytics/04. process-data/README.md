@@ -296,3 +296,10 @@ Once you have finished these data cleaning tasks, it is a good idea to review th
 
 ## Week 5
 
+### The data analyst hiring process
+
+### Understand the elements of a data analyst resume
+
+### Highlighting experiences on resumes
+
+### Exploring areas of interest
